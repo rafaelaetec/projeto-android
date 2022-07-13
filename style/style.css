@@ -164,7 +164,7 @@ aside >h3{
     border-radius: 10px 10px 0px 0px;
 }
 aside > ul{ 
-    list-style-type: ;
+    list-style-type:none ;
     list-style-position: inside;
     columns:2;
 }
@@ -194,4 +194,5 @@ footer > p > a{
 }
 footer a:hover{
     text-decoration: underline;
-    color:var(--cor1
+    color:var(--cor1);
+}

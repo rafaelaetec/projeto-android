@@ -61,6 +61,7 @@ header > p{
     padding-right:10px;
     padding-left: 10px;
     margin:auto;
+    padding-bottom: 50px;
     text-shadow:2px 2px 0 rgba(0, 0, 0, 0.297);
 }
 nav{
@@ -80,7 +81,7 @@ nav > a{
 nav > a:hover{
     background-color: var(--cor3);
     color: var(--cor5);
-    border-radius: 5px;
+    border-radius: 8px;
 }
 main{
     background-color: white;
